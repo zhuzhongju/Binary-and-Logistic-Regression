@@ -1,4 +1,4 @@
-# Binary-Classification-and-Logistic-Regression
+# Deep-Learning-Basics
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
