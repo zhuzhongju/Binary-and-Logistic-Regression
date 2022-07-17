@@ -50,7 +50,7 @@ def initialize_w_b(dim):
 
 def propagate(w, b, X, Y):
     """
-    Implement forward propagation(Compute the cost and gradients) 
+    Implement propagation(Compute the cost and gradients) 
 
     Parameters
     ----------
